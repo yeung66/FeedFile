@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah's sub</title>
-  <link href="http://121.4.43.224:8108/atom.xml" rel="self" />
-  <updated>2021-04-11T12:27:10.5897885Z</updated>
-  <id>http://121.4.43.224:8108/atom.xml</id>
+  <link href="https://scottyeung.top/FeedFile/atom" rel="self" />
+  <updated>2021-04-11T12:47:28.5982928Z</updated>
+  <id>https://scottyeung.top/FeedFile/atom</id>
   <entry>
     <title>图机器学习 GCN网络 | 幻想风靡</title>
     <link href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" />

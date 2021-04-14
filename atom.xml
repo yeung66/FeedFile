@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah's sub</title>
   <link href="https://scottyeung.top/FeedFile/atom" rel="self" />
-  <updated>2021-04-11T12:47:28.5982928Z</updated>
+  <updated>2021-04-14T11:56:34.1521629Z</updated>
   <id>https://scottyeung.top/FeedFile/atom</id>
+  <entry>
+    <title>dotnet 爬虫的神 | YeungYeah 的乱写地</title>
+    <link href="https://scottyeung.top/2021/dotnet-god-of-web-crawler/" />
+    <id>https://scottyeung.top/2021/dotnet-god-of-web-crawler/</id>
+    <published>2021-04-07T00:00:00.0000000</published>
+    <summary>这一周干了两次需要批量下载图片或文件的自动化工作，连续两次使用都是 dotnet 来完成，着实不错，尤其是配合 c# 的 async/await 语法糖，异步下载性能确实够快。这两次的下载让我对于这种需要批量获取信息或者下载的任务解锁了新的姿势。</summary>
+  </entry>
   <entry>
     <title>图机器学习 GCN网络 | 幻想风靡</title>
     <link href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" />
     <id>https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/</id>
     <published>2021-03-18T00:00:00.0000000</published>
     <summary>《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
+  </entry>
+  <entry>
+    <title>相信新的学期有新的机遇 | 林三随笔</title>
+    <link href="https://linsanhu.com/archives/92.html" />
+    <id>https://linsanhu.com/archives/92.html</id>
+    <published>2021-03-03T00:00:00.0000000</published>
+    <summary>时隔两个月没更新，也不知道算不算忙，借口都懒得找了。寒假没有做成什么大动作，原计划想整合zblog应用中心的主题，然后给更新下的，直到开学这几天也没有任何行动。倒是两个客户的要求，来回修改后总算是完工了（还有点瑕疵，有时间在改），获利...</summary>
   </entry>
 </feed>

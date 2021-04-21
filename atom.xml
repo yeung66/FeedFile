@@ -1,28 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>YeungYeah's sub</title>
-  <link href="https://scottyeung.top/FeedFile/atom" rel="self" />
-  <updated>2021-04-14T11:56:34.1521629Z</updated>
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YeungYeah&#39;s Sub</title>
   <id>https://scottyeung.top/FeedFile/atom</id>
+  <updated>2021-04-21T20:22:31+08:00</updated>
+  <subtitle>YeungYeah&#39;s Sub on some blogs withour rss support</subtitle>
+  <link href="https://scottyeung.top/FeedFile/atom"></link>
+  <author>
+    <name>YeungYeah</name>
+    <email>yeungyeah@qq.com</email>
+  </author>
   <entry>
-    <title>dotnet 爬虫的神 | YeungYeah 的乱写地</title>
-    <link href="https://scottyeung.top/2021/dotnet-god-of-web-crawler/" />
-    <id>https://scottyeung.top/2021/dotnet-god-of-web-crawler/</id>
-    <published>2021-04-07T00:00:00.0000000</published>
-    <summary>这一周干了两次需要批量下载图片或文件的自动化工作，连续两次使用都是 dotnet 来完成，着实不错，尤其是配合 c# 的 async/await 语法糖，异步下载性能确实够快。这两次的下载让我对于这种需要批量获取信息或者下载的任务解锁了新的姿势。</summary>
+    <title>图机器学习 GCN网络</title>
+    <updated>2021-04-21T20:22:31+08:00</updated>
+    <id>tag:ravex.gitee.io,2021-04-21:/2021/03/18/图机器学习GCN网络/</id>
+    <link href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" rel="alternate"></link>
+    <summary type="html">《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
   </entry>
   <entry>
-    <title>图机器学习 GCN网络 | 幻想风靡</title>
-    <link href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" />
-    <id>https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/</id>
-    <published>2021-03-18T00:00:00.0000000</published>
-    <summary>《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
-  </entry>
-  <entry>
-    <title>相信新的学期有新的机遇 | 林三随笔</title>
-    <link href="https://linsanhu.com/archives/92.html" />
-    <id>https://linsanhu.com/archives/92.html</id>
-    <published>2021-03-03T00:00:00.0000000</published>
-    <summary>时隔两个月没更新，也不知道算不算忙，借口都懒得找了。寒假没有做成什么大动作，原计划想整合zblog应用中心的主题，然后给更新下的，直到开学这几天也没有任何行动。倒是两个客户的要求，来回修改后总算是完工了（还有点瑕疵，有时间在改），获利...</summary>
+    <title>dotnet 爬虫的神</title>
+    <updated>2021-04-07T00:00:00Z</updated>
+    <id>tag:scottyeung.top,2021-04-07:/2021/dotnet-god-of-web-crawler/</id>
+    <link href="https://scottyeung.top/2021/dotnet-god-of-web-crawler/" rel="alternate"></link>
+    <summary type="html">这一周干了两次需要批量下载图片或文件的自动化工作，连续两次使用都是 dotnet 来完成，着实不错，尤其是配合 c# 的 async/await 语法糖，异步下载性能确实够快。这两次的下载让我对于这种需要批量获取信息或者下载的任务解锁了新的姿势。</summary>
   </entry>
 </feed>

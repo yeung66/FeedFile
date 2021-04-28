@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah&#39;s Sub</title>
   <id>https://scottyeung.top/FeedFile/atom</id>
-  <updated>2021-04-28T18:26:21+08:00</updated>
+  <updated>2021-04-28T20:16:51+08:00</updated>
   <subtitle>YeungYeah&#39;s Sub on some blogs withour rss support</subtitle>
   <link href="https://scottyeung.top/FeedFile/atom"></link>
   <author>
@@ -10,7 +10,7 @@
   </author>
   <entry>
     <title>图机器学习 GCN网络</title>
-    <updated>2021-04-28T18:26:21+08:00</updated>
+    <updated>2021-04-28T20:16:51+08:00</updated>
     <id>tag:ravex.gitee.io,2021-04-28:/2021/03/18/图机器学习GCN网络/</id>
     <link href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" rel="alternate"></link>
     <summary type="html">《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
@@ -21,5 +21,12 @@
     <id>tag:scottyeung.top,2021-04-07:/2021/dotnet-god-of-web-crawler/</id>
     <link href="https://scottyeung.top/2021/dotnet-god-of-web-crawler/" rel="alternate"></link>
     <summary type="html">这一周干了两次需要批量下载图片或文件的自动化工作，连续两次使用都是 dotnet 来完成，着实不错，尤其是配合 c# 的 async/await 语法糖，异步下载性能确实够快。这两次的下载让我对于这种需要批量获取信息或者下载的任务解锁了新的姿势。</summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2021-04-28T20:16:51+08:00</updated>
+    <id>urn:uuid:7cdc4f34-3a10-4427-9ebe-01ba8c7fab33</id>
+    <link href="" rel="alternate"></link>
+    <summary type="html"></summary>
   </entry>
 </feed>

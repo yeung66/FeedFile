@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah&#39;s Sub</title>
   <id>https://scottyeung.top/FeedFile/atom</id>
-  <updated>2021-04-29T20:16:51+08:00</updated>
+  <updated>2021-04-30T20:16:51+08:00</updated>
   <subtitle>YeungYeah&#39;s Sub on some blogs withour rss support</subtitle>
   <link href="https://scottyeung.top/FeedFile/atom"></link>
   <author>
@@ -10,8 +10,8 @@
   </author>
   <entry>
     <title>图机器学习 GCN网络</title>
-    <updated>2021-04-29T20:16:51+08:00</updated>
-    <id>tag:ravex.gitee.io,2021-04-29:/2021/03/18/图机器学习GCN网络/</id>
+    <updated>2021-04-30T20:16:51+08:00</updated>
+    <id>tag:ravex.gitee.io,2021-04-30:/2021/03/18/图机器学习GCN网络/</id>
     <link href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" rel="alternate"></link>
     <summary type="html">《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
   </entry>

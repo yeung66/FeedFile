@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah&#39;s Sub</title>
   <id>https://scottyeung.top/FeedFile/atom</id>
-  <updated>2021-05-15T11:46:00+08:00</updated>
+  <updated>2021-05-16T11:46:02+08:00</updated>
   <subtitle>YeungYeah&#39;s Sub on some blogs withour rss support</subtitle>
   <link href="https://scottyeung.top/FeedFile/atom"></link>
   <author>
@@ -23,10 +23,10 @@
     <summary type="html">时隔两个月没更新，也不知道算不算忙，借口都懒得找了。寒假没有做成什么大动作，原计划想整合zblog应用中心的主题，然后给更新下的，直到开学这几天也没有任何行动。倒是两个客户的要求，来回修改后总算是完工了（还有点瑕疵，有时间在改），获利...</summary>
   </entry>
   <entry>
-    <title>大理博物馆碑林</title>
-    <updated>2021-05-15T11:46:00+08:00</updated>
-    <id>tag:travel.synyan.net,2021-05-15:/69689</id>
-    <link href="https://travel.synyan.net/69689" rel="alternate"></link>
-    <summary type="html">2021年5月3日&#xA;&#xA;&#xA;&#xA;大理博物馆南花园有碑林。看到碑林，便是要走去瞧瞧的了，哪怕时间已经显得紧张。&#xA;&#xA;&#xA;&#xA;想起二十多年前曾去西安碑林，但彼时学识浅薄，走马观花，竟错失很多旷世作品，很是可惜。&#xA;&#xA;&#xA;&#xA;碑林集...</summary>
+    <title>大理崇圣寺三塔</title>
+    <updated>2021-05-16T11:46:02+08:00</updated>
+    <id>tag:travel.synyan.net,2021-05-16:/69728</id>
+    <link href="https://travel.synyan.net/69728" rel="alternate"></link>
+    <summary type="html">2021年5月3日&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;崇圣寺三塔是大理地标性建筑，有“不看三塔未到大理”的说法。始建于唐代，位于大理古城西北，西对苍山应乐峰，东对洱海，由一大二小三阁组成。大塔名千寻塔，亦称文笔塔，高69.13米，凡...</summary>
   </entry>
 </feed>

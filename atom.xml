@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah&#39;s Sub</title>
   <id>https://scottyeung.top/FeedFile/atom</id>
-  <updated>2021-06-01T12:41:59+08:00</updated>
+  <updated>2021-06-02T12:42:01+08:00</updated>
   <subtitle>YeungYeah&#39;s Sub on some blogs withour rss support</subtitle>
   <link href="https://scottyeung.top/FeedFile/atom"></link>
   <author>
@@ -30,11 +30,11 @@
     <summary type="html">前言cgo 是个好东西，可以很方便的和 c、c++交互，这篇文章主要是记录下 cgo 声明回调函数入参，然后在 c 中进行实现并传递。阅读全文 »</summary>
   </entry>
   <entry>
-    <title>平行世界的统计推断</title>
-    <updated>2021-05-21T00:00:00Z</updated>
-    <id>tag:yufree.cn,2021-05-21:/cn/cn/2021/05/21/statistical-inference-in-parallel-world/</id>
-    <link href="https://yufree.cn/cn/cn/2021/05/21/statistical-inference-in-parallel-world/" rel="alternate"></link>
-    <summary type="html">平行世界的统计推断</summary>
+    <title>布罗曼的吐槽</title>
+    <updated>2021-06-01T00:00:00Z</updated>
+    <id>tag:yufree.cn,2021-06-01:/cn/cn/2021/06/01/karl-broman/</id>
+    <link href="https://yufree.cn/cn/cn/2021/06/01/karl-broman/" rel="alternate"></link>
+    <summary type="html">布罗曼的吐槽</summary>
   </entry>
   <entry>
     <title>夕过滇池落彩虹</title>

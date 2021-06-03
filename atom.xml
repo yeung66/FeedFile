@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah&#39;s Sub</title>
   <id>https://scottyeung.top/FeedFile/atom</id>
-  <updated>2021-06-02T12:42:01+08:00</updated>
+  <updated>2021-06-03T12:42:03+08:00</updated>
   <subtitle>YeungYeah&#39;s Sub on some blogs withour rss support</subtitle>
   <link href="https://scottyeung.top/FeedFile/atom"></link>
   <author>
@@ -23,11 +23,11 @@
     <summary type="html">时隔两个月没更新，也不知道算不算忙，借口都懒得找了。寒假没有做成什么大动作，原计划想整合zblog应用中心的主题，然后给更新下的，直到开学这几天也没有任何行动。倒是两个客户的要求，来回修改后总算是完工了（还有点瑕疵，有时间在改），获利...</summary>
   </entry>
   <entry>
-    <title>cgo传递回调函数</title>
-    <updated>2021-04-26T00:00:00Z</updated>
-    <id>tag:monkeywie.cn,2021-04-26:/2021/04/26/cgo-pass-callback/</id>
-    <link href="https://monkeywie.cn/2021/04/26/cgo-pass-callback/" rel="alternate"></link>
-    <summary type="html">前言cgo 是个好东西，可以很方便的和 c、c++交互，这篇文章主要是记录下 cgo 声明回调函数入参，然后在 c 中进行实现并传递。阅读全文 »</summary>
+    <title>spring-cloud-gateway缓存区不够用的解决办法</title>
+    <updated>2021-06-02T00:00:00Z</updated>
+    <id>tag:monkeywie.cn,2021-06-02:/2021/06/02/spring-cloud-gateway-exceeded-limit-on-max-bytes-to-buffer-issue/</id>
+    <link href="https://monkeywie.cn/2021/06/02/spring-cloud-gateway-exceeded-limit-on-max-bytes-to-buffer-issue/" rel="alternate"></link>
+    <summary type="html">前言最近碰到一个问题，我们的Spring Cloud Gateway网关有个接口一直报错，错误堆栈如下：123456org.springframework.core.io.buffer.DataBufferLimitException: Exceeded limit on max bytes to buffer : 262144&#x9;at org.springframework.core.io.buffer.LimitedDataBufferList.raiseLimitException(LimitedDataBufferList.java:98) ~[spring-core-5.2.12.RELEASE.jar!/:5.2.12.RELEASE]&#x9;Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException:&#x9;Error has been observed at the following site(s):&#x9;|_ checkpoint ⇢ Body from UNKNOWN  [DefaultClientResponse]&#x9;|_ checkpoint ⇢ org.springframework.cloud.gateway.filter.WeightCalculatorWebFilter [DefaultWebFilterChain]阅读全文 »</summary>
   </entry>
   <entry>
     <title>布罗曼的吐槽</title>

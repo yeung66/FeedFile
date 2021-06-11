@@ -1,46 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>YeungYeah&#39;s Sub</title>
-  <id>https://scottyeung.top/FeedFile/atom</id>
-  <updated>2021-06-08T12:42:18+08:00</updated>
-  <subtitle>YeungYeah&#39;s Sub on some blogs withour rss support</subtitle>
-  <link href="https://scottyeung.top/FeedFile/atom"></link>
-  <author>
-    <name>YeungYeah</name>
-    <email>yeungyeah@qq.com</email>
-  </author>
-  <entry>
-    <title>图机器学习 GCN网络</title>
-    <updated>2021-03-18T00:00:00Z</updated>
-    <id>tag:ravex.gitee.io,2021-03-18:/2021/03/18/图机器学习GCN网络/</id>
-    <link href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" rel="alternate"></link>
-    <summary type="html">《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
-  </entry>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>YeungYeah's Sub</title>
+  <link rel="alternate" href="https://scottyeung.top/FeedFile/atom" />
+  <subtitle>YeungYeah's Sub on some blogs without rss support</subtitle>
   <entry>
     <title>相信新的学期有新的机遇</title>
-    <updated>2021-03-03T00:00:00Z</updated>
-    <id>tag:linsanhu.com,2021-03-03:/archives/92.html</id>
-    <link href="https://linsanhu.com/archives/92.html" rel="alternate"></link>
+    <link rel="alternate" href="https://linsanhu.com/archives/92.html" />
+    <author>
+      <name>林三随笔</name>
+    </author>
+    <updated>2021-03-02T16:00:00Z</updated>
+    <published>2021-03-02T16:00:00Z</published>
     <summary type="html">时隔两个月没更新，也不知道算不算忙，借口都懒得找了。寒假没有做成什么大动作，原计划想整合zblog应用中心的主题，然后给更新下的，直到开学这几天也没有任何行动。倒是两个客户的要求，来回修改后总算是完工了（还有点瑕疵，有时间在改），获利...</summary>
+    <dc:creator>林三随笔</dc:creator>
+    <dc:date>2021-03-02T16:00:00Z</dc:date>
   </entry>
   <entry>
     <title>云南博物馆远古</title>
-    <updated>2021-06-06T00:00:00Z</updated>
-    <id>tag:travel.synyan.net,2021-06-06:/70116</id>
-    <link href="https://travel.synyan.net/70116" rel="alternate"></link>
-    <summary type="html">2021年5月6日&#xA;&#xA;&#xA;&#xA;昨日抓紧时间去了滇池，今日办完事就空出半天，去云南省博物馆看几件早就向往的藏品。&#xA;&#xA;&#xA;&#xA;发炎的磨牙继续不给力，忍痛在星巴克胡乱吃了点，就当早午饭了。&#xA;&#xA;&#xA;&#xA;星巴克&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;十二点半打车...</summary>
+    <link rel="alternate" href="https://travel.synyan.net/70116" />
+    <author>
+      <name>旅行漫记</name>
+    </author>
+    <updated>2021-06-05T16:00:00Z</updated>
+    <published>2021-06-05T16:00:00Z</published>
+    <summary type="html">2021年5月6日 昨日抓紧时间去了滇池，今日办完事就空出半天，去云南省博物馆看几件早就向往的藏品。 发炎的磨牙继续不给力，忍痛在星巴克胡乱吃了点，就当早午饭了。 星巴克 十二点半打车...</summary>
+    <dc:creator>旅行漫记</dc:creator>
+    <dc:date>2021-06-05T16:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>图机器学习 GCN网络</title>
+    <link rel="alternate" href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" />
+    <author>
+      <name>幻想风靡</name>
+    </author>
+    <updated>2021-03-17T16:00:00Z</updated>
+    <published>2021-03-17T16:00:00Z</published>
+    <summary type="html">《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
+    <dc:creator>幻想风靡</dc:creator>
+    <dc:date>2021-03-17T16:00:00Z</dc:date>
   </entry>
   <entry>
     <title>spring-cloud-gateway缓存区不够用的解决办法</title>
-    <updated>2021-06-02T00:00:00Z</updated>
-    <id>tag:monkeywie.cn,2021-06-02:/2021/06/02/spring-cloud-gateway-exceeded-limit-on-max-bytes-to-buffer-issue/</id>
-    <link href="https://monkeywie.cn/2021/06/02/spring-cloud-gateway-exceeded-limit-on-max-bytes-to-buffer-issue/" rel="alternate"></link>
-    <summary type="html">前言最近碰到一个问题，我们的Spring Cloud Gateway网关有个接口一直报错，错误堆栈如下：123456org.springframework.core.io.buffer.DataBufferLimitException: Exceeded limit on max bytes to buffer : 262144&#x9;at org.springframework.core.io.buffer.LimitedDataBufferList.raiseLimitException(LimitedDataBufferList.java:98) ~[spring-core-5.2.12.RELEASE.jar!/:5.2.12.RELEASE]&#x9;Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException:&#x9;Error has been observed at the following site(s):&#x9;|_ checkpoint ⇢ Body from UNKNOWN  [DefaultClientResponse]&#x9;|_ checkpoint ⇢ org.springframework.cloud.gateway.filter.WeightCalculatorWebFilter [DefaultWebFilterChain]阅读全文 »</summary>
+    <link rel="alternate" href="https://monkeywie.cn/2021/06/02/spring-cloud-gateway-exceeded-limit-on-max-bytes-to-buffer-issue/" />
+    <author>
+      <name>MonkeyWie</name>
+    </author>
+    <updated>2021-06-01T16:00:00Z</updated>
+    <published>2021-06-01T16:00:00Z</published>
+    <summary type="html">前言 最近碰到一个问题，我们的Spring Cloud Gateway网关有个接口一直报错，错误堆栈如下： 1 2 3 4 5 6 org.springframework.core.io.buffer.DataBufferLimitException: Exceeded limit on max bytes to buffer : 262144 	at org.springframework.core.io.buffer.LimitedDataBufferList.raiseLimitException(LimitedDataBufferList.java:98) ~[spring-core-5.2.12.RELEASE.jar!/:5.2.12.RELEASE] 	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 	Error has been observed at the following site(s): 	|_ checkpoint ⇢ Body from UNKNOWN  [DefaultClientResponse] 	|_ checkpoint ⇢ org.springframework.cloud.gateway.filter.WeightCalculatorWebFilter [DefaultWebFilterChain] 阅读全文 »</summary>
+    <dc:creator>MonkeyWie</dc:creator>
+    <dc:date>2021-06-01T16:00:00Z</dc:date>
   </entry>
   <entry>
     <title>布罗曼的吐槽</title>
-    <updated>2021-06-01T00:00:00Z</updated>
-    <id>tag:yufree.cn,2021-06-01:/cn/cn/2021/06/01/karl-broman/</id>
-    <link href="https://yufree.cn/cn/cn/2021/06/01/karl-broman/" rel="alternate"></link>
+    <link rel="alternate" href="https://yufree.cn/cn/cn/2021/06/01/karl-broman/" />
+    <author>
+      <name>Miao Yu</name>
+    </author>
+    <updated>2021-05-31T16:00:00Z</updated>
+    <published>2021-05-31T16:00:00Z</published>
     <summary type="html">布罗曼的吐槽</summary>
+    <dc:creator>Miao Yu</dc:creator>
+    <dc:date>2021-05-31T16:00:00Z</dc:date>
   </entry>
 </feed>

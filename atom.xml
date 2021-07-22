@@ -3,17 +3,19 @@
   <title>YeungYeah's Sub</title>
   <link rel="alternate" href="https://scottyeung.top/FeedFile/atom" />
   <subtitle>YeungYeah's Sub on some blogs without rss support</subtitle>
+  <updated>2021-07-21T08:31:46Z</updated>
+  <dc:date>2021-07-21T08:31:46Z</dc:date>
   <entry>
-    <title>图机器学习 GCN网络</title>
-    <link rel="alternate" href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" />
+    <title>科普与精英主义</title>
+    <link rel="alternate" href="https://yufree.cn/cn/cn/2021/07/11/popular-science/" />
     <author>
-      <name>幻想风靡</name>
+      <name>Miao Yu</name>
     </author>
-    <updated>2021-03-17T16:00:00Z</updated>
-    <published>2021-03-17T16:00:00Z</published>
-    <summary type="html">《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
-    <dc:creator>幻想风靡</dc:creator>
-    <dc:date>2021-03-17T16:00:00Z</dc:date>
+    <updated>2021-07-10T16:00:00Z</updated>
+    <published>2021-07-10T16:00:00Z</published>
+    <summary type="html">科普与精英主义</summary>
+    <dc:creator>Miao Yu</dc:creator>
+    <dc:date>2021-07-10T16:00:00Z</dc:date>
   </entry>
   <entry>
     <title>古蜀之光三星堆</title>
@@ -28,27 +30,15 @@
     <dc:date>2021-07-03T16:00:00Z</dc:date>
   </entry>
   <entry>
-    <title>spring-cloud-gateway缓存区不够用的解决办法</title>
-    <link rel="alternate" href="https://monkeywie.cn/2021/06/02/spring-cloud-gateway-exceeded-limit-on-max-bytes-to-buffer-issue/" />
+    <title>图机器学习 GCN网络</title>
+    <link rel="alternate" href="https://ravex.gitee.io/2021/03/18/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0GCN%E7%BD%91%E7%BB%9C/" />
     <author>
-      <name>MonkeyWie</name>
+      <name>幻想风靡</name>
     </author>
-    <updated>2021-06-01T16:00:00Z</updated>
-    <published>2021-06-01T16:00:00Z</published>
-    <summary type="html">前言 最近碰到一个问题，我们的Spring Cloud Gateway网关有个接口一直报错，错误堆栈如下： 1 2 3 4 5 6 org.springframework.core.io.buffer.DataBufferLimitException: Exceeded limit on max bytes to buffer : 262144 	at org.springframework.core.io.buffer.LimitedDataBufferList.raiseLimitException(LimitedDataBufferList.java:98) ~[spring-core-5.2.12.RELEASE.jar!/:5.2.12.RELEASE] 	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 	Error has been observed at the following site(s): 	|_ checkpoint ⇢ Body from UNKNOWN  [DefaultClientResponse] 	|_ checkpoint ⇢ org.springframework.cloud.gateway.filter.WeightCalculatorWebFilter [DefaultWebFilterChain] 阅读全文 »</summary>
-    <dc:creator>MonkeyWie</dc:creator>
-    <dc:date>2021-06-01T16:00:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>科普与精英主义</title>
-    <link rel="alternate" href="https://yufree.cn/cn/cn/2021/07/11/popular-science/" />
-    <author>
-      <name>Miao Yu</name>
-    </author>
-    <updated>2021-07-10T16:00:00Z</updated>
-    <published>2021-07-10T16:00:00Z</published>
-    <summary type="html">科普与精英主义</summary>
-    <dc:creator>Miao Yu</dc:creator>
-    <dc:date>2021-07-10T16:00:00Z</dc:date>
+    <updated>2021-03-17T16:00:00Z</updated>
+    <published>2021-03-17T16:00:00Z</published>
+    <summary type="html">《Semi-Supervised Classification with Graph Convolutional Networks》学习笔记。</summary>
+    <dc:creator>幻想风靡</dc:creator>
+    <dc:date>2021-03-17T16:00:00Z</dc:date>
   </entry>
 </feed>

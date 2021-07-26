@@ -3,20 +3,8 @@
   <title>YeungYeah's Sub</title>
   <link rel="alternate" href="https://scottyeung.top/FeedFile/atom" />
   <subtitle>YeungYeah's Sub on some blogs without rss support</subtitle>
-  <updated>2021-07-24T08:31:45Z</updated>
-  <dc:date>2021-07-24T08:31:45Z</dc:date>
-  <entry>
-    <title>VitrualBox安装增强功能失败的解决办法</title>
-    <link rel="alternate" href="https://monkeywie.cn/2021/07/21/vitrual-box-installation-on-ubuntu/" />
-    <author>
-      <name>MonkeyWie</name>
-    </author>
-    <updated>2021-07-20T16:00:00Z</updated>
-    <published>2021-07-20T16:00:00Z</published>
-    <summary type="html">使用VitrualBox安装 ubuntu20 之后，需要启用VitrualBox增强功能，发现一直装不上，这里记录下解决方案： 阅读全文 »</summary>
-    <dc:creator>MonkeyWie</dc:creator>
-    <dc:date>2021-07-20T16:00:00Z</dc:date>
-  </entry>
+  <updated>2021-07-25T08:31:45Z</updated>
+  <dc:date>2021-07-25T08:31:45Z</dc:date>
   <entry>
     <title>科普与精英主义</title>
     <link rel="alternate" href="https://yufree.cn/cn/2021/07/11/popular-science/" />

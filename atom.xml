@@ -3,8 +3,20 @@
   <title>YeungYeah's Sub</title>
   <link rel="alternate" href="https://scottyeung.top/FeedFile/atom" />
   <subtitle>YeungYeah's Sub on some blogs without rss support</subtitle>
-  <updated>2021-08-04T08:31:45Z</updated>
-  <dc:date>2021-08-04T08:31:45Z</dc:date>
+  <updated>2021-08-05T08:31:45Z</updated>
+  <dc:date>2021-08-05T08:31:45Z</dc:date>
+  <entry>
+    <title>科学传播</title>
+    <link rel="alternate" href="https://yufree.cn/cn/2021/08/04/sci-communication/" />
+    <author>
+      <name>Miao Yu</name>
+    </author>
+    <updated>2021-08-03T16:00:00Z</updated>
+    <published>2021-08-03T16:00:00Z</published>
+    <summary type="html">科学传播</summary>
+    <dc:creator>Miao Yu</dc:creator>
+    <dc:date>2021-08-03T16:00:00Z</dc:date>
+  </entry>
   <entry>
     <title>通过Apollo SPI机制实现默认环境变量配置支持</title>
     <link rel="alternate" href="https://monkeywie.cn/2021/07/30/custom-apollo-support-defualt-env/" />
@@ -16,18 +28,6 @@
     <summary type="html">// TODO</summary>
     <dc:creator>MonkeyWie</dc:creator>
     <dc:date>2021-07-29T16:00:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>点赞与推荐</title>
-    <link rel="alternate" href="https://yufree.cn/cn/2021/07/25/like-and-recommendation/" />
-    <author>
-      <name>Miao Yu</name>
-    </author>
-    <updated>2021-07-24T16:00:00Z</updated>
-    <published>2021-07-24T16:00:00Z</published>
-    <summary type="html">点赞与推荐</summary>
-    <dc:creator>Miao Yu</dc:creator>
-    <dc:date>2021-07-24T16:00:00Z</dc:date>
   </entry>
   <entry>
     <title>古蜀之光三星堆</title>

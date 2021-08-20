@@ -3,8 +3,20 @@
   <title>YeungYeah's Sub</title>
   <link rel="alternate" href="https://scottyeung.top/FeedFile/atom" />
   <subtitle>YeungYeah's Sub on some blogs without rss support</subtitle>
-  <updated>2021-08-18T08:31:45Z</updated>
-  <dc:date>2021-08-18T08:31:45Z</dc:date>
+  <updated>2021-08-19T08:31:45Z</updated>
+  <dc:date>2021-08-19T08:31:45Z</dc:date>
+  <entry>
+    <title>皮格马利翁效应</title>
+    <link rel="alternate" href="https://yufree.cn/cn/2021/08/18/pygmalion-effect/" />
+    <author>
+      <name>Miao Yu</name>
+    </author>
+    <updated>2021-08-17T16:00:00Z</updated>
+    <published>2021-08-17T16:00:00Z</published>
+    <summary type="html">皮格马利翁效应</summary>
+    <dc:creator>Miao Yu</dc:creator>
+    <dc:date>2021-08-17T16:00:00Z</dc:date>
+  </entry>
   <entry>
     <title>通过Apollo SPI机制实现默认环境变量配置支持</title>
     <link rel="alternate" href="https://monkeywie.cn/2021/08/13/custom-apollo-support-defualt-env/" />
@@ -16,18 +28,6 @@
     <summary type="html">前言 最近公司项目要接入配置中心，后来调研下来决定使用apollo，但是在使用的时候发现有 个小细节特别难受，apollo不支持通过项目代码配置默认的environment，官网文档如下： 阅读全文 »</summary>
     <dc:creator>MonkeyWie</dc:creator>
     <dc:date>2021-08-12T16:00:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>科学传播</title>
-    <link rel="alternate" href="https://yufree.cn/cn/2021/08/04/sci-communication/" />
-    <author>
-      <name>Miao Yu</name>
-    </author>
-    <updated>2021-08-03T16:00:00Z</updated>
-    <published>2021-08-03T16:00:00Z</published>
-    <summary type="html">科学传播</summary>
-    <dc:creator>Miao Yu</dc:creator>
-    <dc:date>2021-08-03T16:00:00Z</dc:date>
   </entry>
   <entry>
     <title>图机器学习 GCN网络</title>

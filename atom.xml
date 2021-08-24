@@ -3,8 +3,8 @@
   <title>YeungYeah's Sub</title>
   <link rel="alternate" href="https://scottyeung.top/FeedFile/atom" />
   <subtitle>YeungYeah's Sub on some blogs without rss support</subtitle>
-  <updated>2021-08-22T08:31:45Z</updated>
-  <dc:date>2021-08-22T08:31:45Z</dc:date>
+  <updated>2021-08-23T08:31:45Z</updated>
+  <dc:date>2021-08-23T08:31:45Z</dc:date>
   <entry>
     <title>皮格马利翁效应</title>
     <link rel="alternate" href="https://yufree.cn/cn/2021/08/18/pygmalion-effect/" />
@@ -28,6 +28,18 @@
     <summary type="html">前言 最近公司项目要接入配置中心，后来调研下来决定使用apollo，但是在使用的时候发现有 个小细节特别难受，apollo不支持通过项目代码配置默认的environment，官网文档如下： 阅读全文 »</summary>
     <dc:creator>MonkeyWie</dc:creator>
     <dc:date>2021-08-12T16:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>K12教育反思</title>
+    <link rel="alternate" href="https://ydjsir.com.cn/2021/05/07/k12Review/" />
+    <author>
+      <name>南雍随笔</name>
+    </author>
+    <updated>2021-05-06T16:00:00Z</updated>
+    <published>2021-05-06T16:00:00Z</published>
+    <summary type="html">引言YDJSIR离开K12（从幼儿园到高中三年级）的时间也还不长。父母都是教师，对市内乃至广东省内的高中都有所耳闻。但直到大学，才在与同学的交流中真正深入反思自己受到的K12教育。 YDJSIR是多么幸运！ 未完待续……</summary>
+    <dc:creator>南雍随笔</dc:creator>
+    <dc:date>2021-05-06T16:00:00Z</dc:date>
   </entry>
   <entry>
     <title>图机器学习 GCN网络</title>

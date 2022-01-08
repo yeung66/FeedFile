@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>YeungYeah&#39;s Sub</title>
   <id>https://scottyeung.top/FeedFile/atom</id>
-  <updated>2022-01-05T21:10:38+08:00</updated>
+  <updated>2022-01-08T14:57:23+08:00</updated>
   <subtitle>YeungYeah&#39;s Sub on some blogs without rss support</subtitle>
   <link href="https://scottyeung.top/FeedFile/atom"></link>
   <author>
@@ -23,13 +23,6 @@
     <summary type="html">AWS 搭建 V2Ray 解锁 Netflix</summary>
   </entry>
   <entry>
-    <title>升级到Java 17没这么简单</title>
-    <updated>2021-11-18T00:00:00Z</updated>
-    <id>tag:monkeywie.cn,2021-11-18:/2021/11/18/java17-compatibility/</id>
-    <link href="https://monkeywie.cn/2021/11/18/java17-compatibility/" rel="alternate"></link>
-    <summary type="html">前言最近在给公司新架构做技术选型，刚好 Java 17 也正式发布一段日子了，而且是LTS长期支持版本，就想着直接用起来吧，里面有些特性还是非常好用的，比如：JEP 378：文本块支持JEP 395：Record 类型JEP 286：变量类型推导More…阅读全文 »</summary>
-  </entry>
-  <entry>
     <title>2021下半年研究速递</title>
     <updated>2022-01-01T00:00:00Z</updated>
     <id>tag:yufree.cn,2022-01-01:/cn/2022/01/01/2021-research-paper-2/</id>
@@ -42,5 +35,12 @@
     <id>tag:ravex.gitee.io,2021-12-19:/2021/12/19/投影的非扩张性/</id>
     <link href="https://ravex.gitee.io/2021/12/19/%E6%8A%95%E5%BD%B1%E7%9A%84%E9%9D%9E%E6%89%A9%E5%BC%A0%E6%80%A7/" rel="alternate"></link>
     <summary type="html">看论文学到的新姿势。</summary>
+  </entry>
+  <entry>
+    <title>升级到Java 17没这么简单</title>
+    <updated>2021-11-18T00:00:00Z</updated>
+    <id>tag:monkeywie.cn,2021-11-18:/2021/11/18/java17-compatibility/</id>
+    <link href="https://monkeywie.cn/2021/11/18/java17-compatibility/" rel="alternate"></link>
+    <summary type="html">前言最近在给公司新架构做技术选型，刚好 Java 17 也正式发布一段日子了，而且是LTS长期支持版本，就想着直接用起来吧，里面有些特性还是非常好用的，比如：JEP 378：文本块支持JEP 395：Record 类型JEP 286：变量类型推导More…阅读全文 »</summary>
   </entry>
 </feed>
